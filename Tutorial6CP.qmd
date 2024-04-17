@@ -36,3 +36,9 @@ p2 <- ggplot(data, aes(x = x, y = y)) +
 
 grid.arrange(p1, p2)
 ```
+
+
+# New Section for Fig
+
+![](https://a.cdn-hotels.com/gdcs/production146/d585/aa60115c-bdfc-479f-88ba-5cb0f15a5af8.jpg?impolicy=fcrop&w=800&h=533&q=medium)
+
